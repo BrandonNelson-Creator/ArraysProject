@@ -8,8 +8,12 @@ namespace ArraysProject
 {
     class Program
     {
+        
+
         static void Main(string[] args)
         {
+            Console.WriteLine("cheese");
+            Console.ReadKey(true);
         }
     }
 }
